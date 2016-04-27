@@ -1,0 +1,15 @@
+K:\WFS\WFS\WFS.Data\bin\Debug\WFS.Data.dll.config
+K:\WFS\WFS\WFS.Data\bin\Debug\WFS.Data.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\WFS.Data.pdb
+K:\WFS\WFS\WFS.Data\bin\Debug\EntityFramework.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\EntityFramework.SqlServer.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\MySql.Data.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+K:\WFS\WFS\WFS.Data\bin\Debug\EntityFramework.xml
+K:\WFS\WFS\WFS.Data\bin\Debug\EntityFramework.SqlServer.xml
+K:\WFS\WFS\WFS.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+K:\WFS\WFS\WFS.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\WFS\WFS\WFS.Data\obj\Debug\WFS.Data.dll
+K:\WFS\WFS\WFS.Data\obj\Debug\WFS.Data.pdb
